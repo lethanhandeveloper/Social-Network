@@ -1,0 +1,61 @@
+import { v4 as uuidv4 } from "uuid";
+
+const newsList = [
+  {
+    id: uuidv4(),
+    firstName: "Ahmed",
+    lastName: "hassan",
+    avatar: require("../images/avatars/Ellipse_3.png"),
+    caption: "What a nice day !",
+    imageList: require("../images/news/new_fake.jpg"),
+    time: "4 month ago",
+    likeNumber: 10,
+    commentNumber: 10,
+  },
+  {
+    id: uuidv4(),
+    firstName: "Ahmed",
+    lastName: "hassan",
+    avatar: require("../images/avatars/Ellipse_3.png"),
+    caption: "What a nice day !",
+    imageList: require("../images/news/new_fake.jpg"),
+    time: "4 month ago",
+    likeNumber: 10,
+    commentNumber: 10,
+  },
+  {
+    id: uuidv4(),
+    firstName: "Ahmed",
+    lastName: "hassan",
+    avatar: require("../images/avatars/Ellipse_3.png"),
+    caption: "What a nice day !",
+    imageList: require("../images/news/new_fake.jpg"),
+    time: "4 month ago",
+    likeNumber: 10,
+    commentNumber: 10,
+  },
+  {
+    id: uuidv4(),
+    firstName: "Ahmed",
+    lastName: "hassan",
+    avatar: require("../images/avatars/Ellipse_3.png"),
+    caption: "What a nice day !",
+    imageList: require("../images/news/new_fake.jpg"),
+    time: "4 month ago",
+    likeNumber: 10,
+    commentNumber: 10,
+  },
+  {
+    id: uuidv4(),
+    firstName: "Ahmed",
+    lastName: "hassan",
+    avatar: require("../images/avatars/Ellipse_3.png"),
+    caption: "What a nice day !",
+    imageList: require("../images/news/new_fake.jpg"),
+    time: "4 month ago",
+    likeNumber: 10,
+    commentNumber: 10,
+  },
+];
+
+export default newsList;

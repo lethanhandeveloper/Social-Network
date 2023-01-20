@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ZHungryChatAppV2",
+    "slug": "ZHungryChatAppV2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ZHungryChatAppV2"
+}

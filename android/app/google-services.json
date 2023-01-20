@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812820991580",
+    "firebase_url": "https://zhungrychatapp-default-rtdb.firebaseio.com",
+    "project_id": "zhungrychatapp",
+    "storage_bucket": "zhungrychatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812820991580:android:392c95da822854d60ae099",
+        "android_client_info": {
+          "package_name": "com.zhungrychatappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812820991580-h0r9c89oqgr0jtu635ukcnkt682otedr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf5ulc36SLvUpMKODbDNNDkTYH4ArCwwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812820991580-h0r9c89oqgr0jtu635ukcnkt682otedr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

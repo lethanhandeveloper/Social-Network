@@ -1,7 +1,14 @@
-# Technologies
-
+# Introduction
+This project build in order to create a social network mobile application similar to Facebook
+# Technologies and Database
+- React Native
+- Firebase Realtime Database
 # Features
-
+- Account : SignUp, Login, Profile
+- Chat : Private Chat
+- Post : Create Post, Post Reaction, Post Comment
+- Notification 
+- Search
 # Demo
 <div align="center">
 
@@ -18,13 +25,13 @@
 <img height=480 width=240 style="margin: 10px;" src="./screenshots/comment.PNG"/>
 </div>
 
-<h4 align="left">Private Chat List Screen &nbsp&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp&nbsp Private Chat Screen &nbsp&nbsp&nbsp&nbsp</h4>
+<h4 align="center">Private Chat List Screen &nbsp&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp&nbsp Private Chat Screen &nbsp&nbsp&nbsp&nbsp| &nbsp&nbsp&nbsp&nbsp Notification Screen &nbsp&nbsp&nbsp&nbsp</h4>
 <img height=480 width=240 style="margin: 10px;" src="./screenshots/privatechatlist.PNG"/>
 <img height=480 width=240 style="margin: 10px;" src="./screenshots/privatechat.PNG"/>
+<img height=480 width=240 style="margin: 10px;" src="./screenshots/notification.PNG"/>
 </div>
 
-<h4 align="left">Notifycation Screen &nbsp&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp&nbsp Search Screen &nbsp&nbsp&nbsp&nbsp</h4>
-<img height=480 width=240 style="margin: 10px;" src="./screenshots/notification.PNG"/>
+<h4 align="center">Search Screen &nbsp&nbsp&nbsp&nbsp</h4>
 <img height=480 width=240 style="margin: 10px;" src="./screenshots/search.PNG"/>
 </div>
 
